@@ -1,2 +1,2 @@
 # MTProto
-Best MR
+Best MTProto Script Installer
