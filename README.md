@@ -1,2 +1,2 @@
 # MTProto and Shadowsocks
-Best MTProto and Shadowsocks vertions Script Installer
+Best MTProto and Shadowsocks Script Installer versions
